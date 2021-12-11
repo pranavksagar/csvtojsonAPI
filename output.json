@@ -1,0 +1,72 @@
+[
+  {
+    "id": "1",
+    "age": "32",
+    "name": {
+      "firstname": "John",
+      "lastname": "Doe"
+    },
+    "address": {
+      "line1": "120 jefferson st.",
+      "line2": "Riverside",
+      "line3": "NJ",
+      "line4": "8075"
+    }
+  },
+  {
+    "id": "2",
+    "age": "19",
+    "name": {
+      "firstname": "Jack",
+      "lastname": "McGinnis"
+    },
+    "address": {
+      "line1": "220 hobo Av.",
+      "line2": "Phila",
+      "line3": "PA",
+      "line4": "9119"
+    }
+  },
+  {
+    "id": "3",
+    "age": "24",
+    "name": {
+      "firstname": "John Da Man",
+      "lastname": "Repici"
+    },
+    "address": {
+      "line1": "120 Jefferson St.",
+      "line2": "Riverside",
+      "line3": "NJ",
+      "line4": "8075"
+    }
+  },
+  {
+    "id": "4",
+    "age": "17",
+    "name": {
+      "firstname": "Stephen",
+      "lastname": "Tyler"
+    },
+    "address": {
+      "line1": "7452 Terrace At the Plaza road",
+      "line2": "SomeTown",
+      "line3": "SD",
+      "line4": "91234"
+    }
+  },
+  {
+    "id": "5",
+    "age": "39",
+    "name": {
+      "firstname": "Anne",
+      "lastname": "Jet"
+    },
+    "address": {
+      "line1": "9th at Terrace plc",
+      "line2": "Desert City",
+      "line3": "CO",
+      "line4": "123"
+    }
+  }
+]
